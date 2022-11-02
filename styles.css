@@ -1,0 +1,192 @@
+* {
+  font-family: "Plus Jakarta Sans", sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: rgb(233, 189, 123);
+}
+
+h1 {
+  color: blueviolet;
+}
+
+h2 {
+  color: blueviolet;
+}
+
+.H1 {
+  margin-top: 50px;
+  margin-left: 548px;
+}
+
+.con {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  margin-top: 90px;
+}
+
+.bolo {
+  border: 2px solid blueviolet;
+  border-radius: 20px;
+  background: rgb(255, 151, 233);
+  display: inline-flex;
+  width: 350px;
+  height: 600px;
+  align-content: center;
+  padding: 5px;
+  margin: 10px;
+}
+
+.pizza {
+  border: 2px solid blueviolet;
+  border-radius: 20px;
+  background: rgb(255, 151, 233);
+  display: inline-flex;
+  width: 350px;
+  height: 600px;
+  align-content: center;
+  padding: 5px;
+  margin: 10px;
+}
+
+.lasanha {
+  border: 2px solid blueviolet;
+  border-radius: 20px;
+  background: rgb(255, 151, 233);
+  display: inline-flex;
+  width: 350px;
+  height: 600px;
+  align-content: center;
+  padding: 5px;
+  margin: 10px;
+}
+
+#lasanha-conteiner {
+  border: 2px solid blueviolet;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-top: 50px;
+  margin-left: 330px;
+  border-radius: 20px;
+  background: rgb(255, 151, 233);
+  width: 600px;
+  height: auto;
+  align-content: center;
+  padding: 5px;
+}
+
+#pizza-con {
+  border: 2px solid blueviolet;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-top: 100px;
+  margin-left: 330px;
+  border-radius: 20px;
+  background: rgb(255, 151, 233);
+  width: 600px;
+  height: auto;
+  align-content: center;
+  padding: 5px;
+}
+
+#bolo-con {
+  border: 2px solid blueviolet;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-top: 80px;
+  margin-left: 330px;
+  border-radius: 20px;
+  background: rgb(255, 151, 233);
+  width: 600px;
+  height: auto;
+  align-content: center;
+  padding: 5px;
+}
+
+.lasanha li {
+  list-style: none;
+}
+
+.pizza li {
+  list-style: none;
+}
+
+.bolo li {
+  list-style: none;
+}
+
+.lasanha img {
+  margin-left: 23px;
+}
+
+.pizza img {
+  margin-left: 22px;
+}
+
+.bolo img {
+  margin-left: 21px;
+}
+
+p {
+  margin-left: 5px;
+}
+
+h3 {
+  color: blueviolet;
+  margin-left: 120px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+a {
+  color: rgba(9, 141, 158, 0.822);
+}
+
+.lasanha a {
+  margin-left: 130px;
+}
+
+.bolo a {
+  margin-left: 130px;
+}
+
+.pizza a {
+  margin-left: 130px;
+}
+
+#lasanha-conteiner h2 {
+  margin-bottom: 5px;
+  margin-top: 5px;
+}
+
+#bolo-con h2 {
+  margin-bottom: 5px;
+  margin-top: 5px;
+}
+
+#pizza-con h2 {
+  margin-bottom: 5px;
+  margin-top: 5px;
+}
+
+.lasanha h2 {
+  margin-left: 60px;
+}
+
+.pizza h2 {
+  margin-left: 30px;
+}
+
+.bolo h2 {
+  margin-left: 10px;
+}
